@@ -1,4 +1,4 @@
-<h1>Steven Figler <sub><sup>· Step Up Gaming</sup></sub></h1>
+<h1>Step Up Gaming</h1>
 
 **Research code in. Native software out.**
 
